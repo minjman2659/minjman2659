@@ -6,6 +6,7 @@ Node.js 와 Express를 중심으로 개발이 가능한 백엔드 개발자 김�
 <br />
 꾸준한 팀 프로젝트와 팀장 경험으로 협업과 소통에 능하며, 꼼꼼함을 바탕으로 안정적인 서비스 개발을 지향하고 있습니다.
 
+<<<<<<< HEAD
 <a href="https://minjman2659.notion.site/18cb65fa6c1f4f29b65b2a03c980368f" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <br />
@@ -16,7 +17,7 @@ Node.js 와 Express를 중심으로 개발이 가능한 백엔드 개발자 김�
 
 <img src="https://img.shields.io/badge/Javascript-FFCA33?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
 
 ### [ Strong ]
 
@@ -31,9 +32,14 @@ Node.js 와 Express를 중심으로 개발이 가능한 백엔드 개발자 김�
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json web tokens&logoColor=white"/></a>
+<<<<<<< HEAD
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/></a>
 
-<br />
+# <br />
+
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/></a><br />
+
+> > > > > > > 9398b3ab0c0c40d4e13b63f4d393f9291ad176ce
 
 ## 📬 Contact
 
