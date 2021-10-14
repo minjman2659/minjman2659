@@ -8,8 +8,6 @@ Node.js 와 Express를 중심으로 개발이 가능한 백엔드 개발자 김�
 
 <a href="https://minjman2659.notion.site/18cb65fa6c1f4f29b65b2a03c980368f" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
-<br>
-
 ## 📚 STACK
 
 ### [ 프로그래밍 언어 ]
@@ -32,8 +30,6 @@ Node.js 와 Express를 중심으로 개발이 가능한 백엔드 개발자 김�
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json web tokens&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/></a>
-
-<br>
 
 ## 📬 Contact
 
