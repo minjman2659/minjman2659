@@ -14,7 +14,7 @@ Node.js 와 Express를 중심으로 개발이 가능한 백엔드 개발자 김�
 
 ## 📚 STACK
 
-### [ 프로그래밍 언어 ]
+### [ Programming Languages ]
 <p>
 <img src="https://img.shields.io/badge/Javascript-FFCA33?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp
