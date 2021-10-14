@@ -14,7 +14,8 @@ Node.js 와 Express를 중심으로 개발이 가능한 백엔드 개발자 김�
 
 <img src="https://img.shields.io/badge/Javascript-FFCA33?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
+
 ### [ Strong ]
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>
@@ -23,6 +24,7 @@ Node.js 와 Express를 중심으로 개발이 가능한 백엔드 개발자 김�
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=react&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-EC6F26?style=flat-square&logo=git&logoColor=white"/></a>
+
 ### [ Knowledgeable ]
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
