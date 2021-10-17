@@ -6,9 +6,9 @@ Node.js 와 Express를 중심으로 개발이 가능한 백엔드 개발자 김�
 <br />
 꾸준한 팀 프로젝트와 팀장 경험으로 협업과 소통에 능하며, 꼼꼼함을 바탕으로 안정적인 서비스 개발을 지향하고 있습니다.
 
-<p>
+<!-- <p>
 <a href="https://minjman2659.notion.site/18cb65fa6c1f4f29b65b2a03c980368f" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-</p>
+</p> -->
   
 <br/>
 
