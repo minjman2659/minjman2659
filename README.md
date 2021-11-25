@@ -28,16 +28,14 @@ Node.js 와 MySQL을 중심으로 개발이 가능한 백엔드 개발자 김민
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=react&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Git-EC6F26?style=for-the-badge&logo=git&logoColor=white"/></a>
 </p>
 
 ### [ Knowledgeable ]
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json web tokens&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=react&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Git-EC6F26?style=for-the-badge&logo=git&logoColor=white"/></a>
 </p>
 
 <br />
