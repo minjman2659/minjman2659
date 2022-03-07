@@ -15,28 +15,13 @@
 ## 📚 STACK
 
 ### [ Programming Languages ]
-<p>
-<img src="https://img.shields.io/badge/Javascript-FFCA33?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-</p>
+Javascript, HTML, CSS
 
 ### [ Strong ]
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/></a>
-</p>
+NodeJS, Express, Sequelize
 
 ### [ Knowledgeable ]
-
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=react&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Git-EC6F26?style=for-the-badge&logo=git&logoColor=white"/></a>
-</p>
+Typescript, Koa, AWS, React
 
 <br />
 
