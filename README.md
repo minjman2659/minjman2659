@@ -15,13 +15,13 @@
 ## 📚 STACK
 
 ### [ Programming Languages ]
-Javascript, HTML, CSS
+Javascript, Typescript
 
 ### [ Strong ]
 NodeJS, Express, Sequelize
 
 ### [ Knowledgeable ]
-Typescript, Koa, AWS, React
+NestJS, Koa, AWS, React
 
 <br />
 
