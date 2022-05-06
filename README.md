@@ -31,3 +31,5 @@ NestJS, Koa, AWS, React
   <a href="https://minjman2659.notion.site/minjman2659/16d5cc5769c84f4aacb11952a3625dfc" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>&nbsp
   <a href="mailto:minjman2659@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&matilto:minjman2659@gmail.com"/></a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjman2659)](https://github.com/anuraghazra/github-readme-stats)
