@@ -13,7 +13,7 @@ Javascript, Typescript
 NodeJS, Express, Sequelize
 
 ### [ Knowledgeable ]
-NestJS, Koa, TypeORM, AWS, React
+NestJS, TypeORM, AWS, React
 
 <br />
 
