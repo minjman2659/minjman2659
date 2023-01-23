@@ -1,13 +1,15 @@
 ## 👨🏻‍💻 ABOUT ME
 
 안녕하세요 😀
+
+NodeJS와 RDBMS로 개발이 가능한 백엔드 개발자 김민재입니다.
   
 <br/>
 
 ## 📚 STACK
 
 ### [ Programming Languages ]
-Javascript, Typescript
+Javascript, Typescript, SQL
 
 ### [ Strong ]
 NodeJS, Express, Sequelize
