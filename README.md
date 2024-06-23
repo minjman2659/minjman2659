@@ -2,20 +2,17 @@
 
 안녕하세요 😀
 
-NodeJS와 RDBMS로 개발이 가능한 백엔드 개발자 김민재입니다.
+주 스킬인 NodeJS(NestJS)로 개발이 가능한 백엔드 개발자 김민재입니다.
   
 <br/>
 
 ## 📚 STACK
 
 ### [ Programming Languages ]
-Javascript, Typescript, SQL
+JavaScript, TypeScript, Python, SQL
 
-### [ Strong ]
-NodeJS, Express, Sequelize
-
-### [ Knowledgeable ]
-NestJS, TypeORM, AWS, React
+### [ Stacks ]
+NodeJS, NestJS, ORM, RDBMS(PostgreSQL, MySQL), NoSQL(MongoDB), Docker, AWS services
 
 <br />
 
